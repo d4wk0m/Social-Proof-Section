@@ -5,9 +5,8 @@ body{
     justify-content: center;
     margin: 0px;
     font-family: 'Spartan', sans-serif;
-    background-image: url(./images/bg-pattern-top-desktop.svg), url(./images/bg-pattern-bottom-desktop.svg);
+    background: url(./images/bg-pattern-top-desktop.svg), url(./images/bg-pattern-bottom-desktop.svg) no-repeat;
     background-position: top left, bottom right;
-    background-repeat: no-repeat;
     padding-bottom: 10vh;
 }
 
